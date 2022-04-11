@@ -41,7 +41,7 @@ public class HelloServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		String url = "jdbc:mysql://localhost:3306/wtl06";
 		String uname = "root";
-		String password = "Dh@050701$";
+		String password = "*****";
 		
 		String stud_id=request.getParameter("stud_id");
 		String stud_name=request.getParameter("stud_name");
