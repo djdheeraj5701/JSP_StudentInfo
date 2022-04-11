@@ -35,7 +35,7 @@
         <% 
         String url = "jdbc:mysql://localhost:3306/wtl06";
 		String uname = "root";
-		String password = "Dh@050701$";
+		String password = "*****";
         %>
         <div style="width: 100%; display: inline-flex;flex-direction: row; padding-top: 50px; font-size: 18px;">
             <div style="width: 40%; padding-left: 15%;">
